@@ -6,4 +6,5 @@ We are going to understand all the important DSA in this course and also going t
 
 Here are things we are going to explore in this course, below are the links of all those topics and how they are connected.
 
--[Technical_Interviw_Mind_Map]:(https://coggle.it/diagram/W5E5tqYlrXvFJPsq/t/master-the-interview-click-here-for-course-link) -[Interview_Mind_Map]: (https://https://coggle.it/diagram/W5E5tqYlrXvFJPsq/t/master-the-interview-click-here-for-course-linkcoggle.it/diagram/W5u8QkZs6r4sZM3J/t/master-the-interview)
+-[Technical_Interviw_Mind_Map]:(https://coggle.it/diagram/W5E5tqYlrXvFJPsq/t/master-the-interview-click-here-for-course-link) 
+-[Interview_Mind_Map]: (https://https://coggle.it/diagram/W5E5tqYlrXvFJPsq/t/master-the-interview-click-here-for-course-linkcoggle.it/diagram/W5u8QkZs6r4sZM3J/t/master-the-interview)

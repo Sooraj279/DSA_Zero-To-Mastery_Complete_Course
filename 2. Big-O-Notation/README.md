@@ -248,3 +248,35 @@ void nFacRuntimeFunc(int n) {
 ## Which code is Best
 
 ![Best Code Needs](best-code.png)
+
+## Space Complexity
+
+Speed is a factor sure but having to many boxes might result in shortage of memory and the boxes might overflow.
+
+### What causes space complexity?
+
+- Variable
+- Data Structure
+- Function Call
+- Allocation
+
+_Example:_
+
+```js
+function boo(n) {
+  for (let i = 0; i < n.lenght; i++) {
+    console.log("Boooo!");
+  }
+}
+boo([1, 2, 3, 4, 5]); //The space complexity of this function is O(1) as the array is not playing any role here
+
+function arrayOfHiNTimes(n) {
+  let hiArray = [];
+  for (let i = 0; i < n; i++) {
+    hiArray[i] = "hi";
+  }
+  return hiArray;
+}
+
+arrayOfHiNTimes(6); //O(n) because array data struture and allocation is done as per the size
+```

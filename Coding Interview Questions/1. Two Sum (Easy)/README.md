@@ -1,6 +1,8 @@
 #  Arrays : Question #1 - Google Interview Question Two Sum (Easy)
 
-You can check out the Question on LeetCode here before [Leetcode-Two_Sum](https://leetcode.com/problems/two-sum/) going throught the solution.
+You can check out the Question on LeetCode here before [Leetcode Two Sum](https://leetcode.com/problems/two-sum/) going throught the solution.
+
+The process shown in this lecture to solve the given problem is almost the same as Google wants there candidate to solve a given coding problem during interview. Here is the YouTube link to prove this point [Two Sum By Google](https://youtu.be/XKu_SEDAykw?si=aTme2dBumnh4FihE).
 
 ## Problem Statement
 

@@ -1,6 +1,6 @@
 #  Arrays : Question #1 - Google Interview Question Two Sum (Easy)
 
-You can check out the Question on LeetCode here before [Leetcode-Two_Sum] going throught the solution.
+You can check out the Question on LeetCode here before [Leetcode-Two_Sum](https://leetcode.com/problems/two-sum/) going throught the solution.
 
 ## Problem Statement
 
@@ -259,5 +259,5 @@ Always look for the Space and Time complexity and not the numbers you get after 
 In an interview you need to be vocal about the steps you take to solve a coding problem and these steps are the best practice one could do to make themself much more of a critical thinker and this is what big companies like Google wants from there employies.
 
 ---------------------------------------
-[Leetcode-Two_Sum]:(https://leetcode.com/problems/two-sum/)
+
 

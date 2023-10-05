@@ -62,7 +62,7 @@ Let's assume that the constaints are not given for this question then what are t
 1. **Q : Are all the numbers positive or can there be negatives?** 
 > Ans : Yes, there can be negatives `-109 <= nums[i] <= 109`
 2. **Q: Are there duplicate numbers in the array?**
-> Ans : Yes there can be.**
+> Ans : Yes there can be.
 3. **Q : Will there always be a solution avaiable?**
 > Ans : No, there may not always be a solution
 > **Explaination** : Suppose our array is [1,3,5,4,6] and target = 25 or if our array is empty [] or has a single value [5] in these cases no vaild answer is produce.

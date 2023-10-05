@@ -1,4 +1,4 @@
-# Interview Question #2 - Container With Most Water
+# Arrays : Interview Question #2 - Container With Most Water (Medium)
 
 You can check out the Question on LeetCode here  [Leetcode Container With Most Water](https://leetcode.com/problems/container-with-most-water/) before going throught the solution.
 
